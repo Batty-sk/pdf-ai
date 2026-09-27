@@ -1,0 +1,7 @@
+PySide6>=6.6
+pymupdf>=1.24
+faiss-cpu>=1.8
+fastembed>=0.4
+openai>=1.40
+keyring>=25.0
+numpy>=1.26
